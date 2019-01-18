@@ -1,0 +1,6 @@
+Dataset file is bigger than 25MB,
+so github does not allow to upload it.
+
+Here is the DOWNLOAD link for the dataset:
+
+https://www.kaggle.com/kemical/kickstarter-projects/downloads/kickstarter-projects.zip/7
