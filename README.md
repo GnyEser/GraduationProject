@@ -6,4 +6,5 @@ https://www.kaggle.com/kemical/kickstarter-projects
   * Decision Tree
   * Logistic Regression
   * Support Vector Machines
- Both theories(math) and implementations of the algorithms are explained in this graduation project.
+  
+Both theories(math) and implementations of the algorithms are explained in this graduation project.
