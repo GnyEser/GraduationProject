@@ -5,7 +5,7 @@ It covers some machine learning algorithms implemented on Kickstarter dataset ob
 https://www.kaggle.com/kemical/kickstarter-projects
 
 ### Includes
-  * Decision Tree
+  * Decision Trees
   * Logistic Regression
   * Support Vector Machines
   
