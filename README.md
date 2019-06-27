@@ -2,7 +2,7 @@
 This project has been created as a graduation project for Istanbul Technical University - Mathematics Engineering department by Günay Eser in 2018-2019 Spring semester.
 
 It covers some machine learning algorithms implemented on Kickstarter dataset obtained from Kaggle using Python and Jupyter Notebook. 
-https://www.kaggle.com/kemical/kickstarter-projects
+Link for Dataset: https://www.kaggle.com/kemical/kickstarter-projects
 
 ### Includes
   * Decision Trees
